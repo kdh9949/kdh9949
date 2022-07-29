@@ -9,7 +9,6 @@
 ## About Me
 
 * Donghyun Kim (kdh9949)
-* **Currently in Korean mandatory military service (~2022.07)**
 * Seoul National University, Department of Computer Science & Engineering
 * Gyeonggi Science High School
 * [Tistory Blog](https://kdh9949.tistory.com)
@@ -21,11 +20,11 @@
 
 | Year | International Contests |
 |:----:| -------- |
-| 2016 | APIO (22nd, Silver Medal) |
-| 2017 | IOI (40th, Silver Medal) |
-| 2018 | ICPC Seoul Regional (_789_, **1st**) |
-| 2019 | ICPC World Finals (_Seoul National University_, 7th, Silver Medal) <br> ICPC Seoul Regional (_789_, 2nd) |
 | 2020 | Google Hash Code World Finals (Participant) <br> ICPC Seoul Regional (_One Coin_, 4th) |
+| 2019 | ICPC World Finals (_Seoul National University_, 7th, Silver Medal) <br> ICPC Seoul Regional (_789_, 2nd) |
+| 2018 | ICPC Seoul Regional (_789_, **1st**) |
+| 2017 | IOI (40th, Silver Medal) |
+| 2016 | APIO (22nd, Silver Medal) |
 
 [![kdh9949's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh9949)](https://solved.ac/profile/kdh9949) [![CodeForces Profile](http://cf.leed.at/?id=kdh9949)](https://codeforces.com/profile/kdh9949)
 
