@@ -21,6 +21,7 @@
 
 | Year | International Contests |
 |:----:| -------- |
+| 2022 | ICPC Seoul Regional (_HappyLastDance_, 3rd) |
 | 2020 | Google Hash Code World Finals (Participant) <br> ICPC Seoul Regional (_One Coin_, 4th) |
 | 2019 | ICPC World Finals (_Seoul National University_, 7th, Silver Medal) <br> ICPC Seoul Regional (_789_, 2nd) |
 | 2018 | ICPC Seoul Regional (_789_, **1st**) |
