@@ -3,7 +3,7 @@
 ## About Me
 
 * Donghyun Kim (kdh9949)
-* SWE @ Moloco
+* NPU Compiler Engineer @ FuriosaAI
 * Seoul National University, Department of Computer Science & Engineering
 * Gyeonggi Science High School
 * [Homepage](https://kdh9949.github.io)
